@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Sarath K J!  
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)  
 ---
 
 ## 🌟 About Me  
@@ -26,27 +25,30 @@
 
 ## 💼 Projects  
 ### 🔹 **[AUTO AID](#)**  
-- Key features: Add a few bullet points about the functionalities.  
+- Built a secure, responsive system using Node.js, Express, MongoDB, HTML, and CSS.
+- Key Features: Booking, inventory, and employee management. 
 
 ### 🔹 **[Smart Agriculture Farming using IoT and LoRa](#)**  
-- Highlight the problem it solves and key technical aspects.  
+- Designed an IoT-based agriculture monitoring system using LoRa technology.
+- Optimized water usage and crop health monitoring with real-time insights.  
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=sarathkj&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathkj&layout=compact&theme=radical" alt="Top Languages" width="400"/>  
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=KJSarath11&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJSarath11&layout=compact&theme=radical" alt="Top Languages" width="400"/>  
+</p>
+>  
 
 ---
 
 ## 📞 Connect with Me  
 <p align="left">  
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">  
+  <a href="https://www.linkedin.com/in/kjsarath11/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
   </a>  
-  <a href="mailto:sarath.kj@example.com">  
+  <a href="mailto:kjsarath76@gmail.com">  
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
   </a>  
 </p>  
