@@ -1,24 +1,23 @@
 👋 Hi, I'm Sarath K J!
-🚀 About Me
-  👨‍💻 I’m a Python Full-Stack Developer with a passion for solving problems using Python.
-  🎓 I hold a B.Tech in Computer Science (CGPA: 6.83).
-  💡 Exploring and building projects using Django.
-  🌱 Currently, I’m learning and practicing Python for interviews and improving my coding skills with different set of problems.
+<br>
+🚀 About Me<br>
+  👨‍💻 I’m a Python Full-Stack Developer with a passion for solving problems using Python.<br>
+  🎓 I hold a B.Tech in Computer Science (CGPA: 6.83).<br>
+  💡 Exploring and building projects using Django.<br>
+  🌱 Currently, I’m learning and practicing Python for interviews and improving my coding skills with different set of problems.<br>
 
-🔧 Tech Skills
-  Programming Languages: Python
-  Frontend: HTML, CSS, JavaScript
-  Database: SQL
-  Tools & Frameworks: Django, React & Git
+🔧 Tech Skills<br>
+  Programming Languages: Python<br>
+  Frontend: HTML, CSS, JavaScript<br>
+  Database: SQL<br>
+  Tools & Frameworks: Django, React & Git<br>
   
-💼 Academic Projects
-  [AUTO AID (Mini Project)]: A brief description of what it does.
-  [Smart Agriculture Farming using IoT and LoRa (Main Project)]: Explain its purpose and what it achieves.
+💼 Academic Projects<br>
+  [AUTO AID (Mini Project)]: A brief description of what it does.<br>
+  [Smart Agriculture Farming using IoT and LoRa (Main Project)]: Explain its purpose and what it achieves.<br>
   
-📞 Contact Me
-  Email: kjsarath76@gmail.com
-  Phone: +91 9496981270
-  LinkedIn: www.linkedin.com/in/kjsarath11
+📞 Contact Me<br>
+  Email: kjsarath76@gmail.com<br>
+  Phone: +91 9496981270<br>
+  LinkedIn: www.linkedin.com/in/kjsarath11<br>
   <!--Portfolio: -->
-📈 GitHub Stats
-  ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathkj&show_icons=true&theme=radical)
