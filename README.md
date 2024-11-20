@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Sarath K J!  
+# 👋 Welcome!  
+![Banner](https://github.com/KJSarath11/KJSarath11/blob/main/GitHUb.png)
+<!--
+<img src="https://github.com/KJSarath11/KJSarath11/blob/main/GitHUb.png" alt="Banner" style="width:80%;"/>-->
 
 ---
 
