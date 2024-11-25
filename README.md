@@ -53,7 +53,7 @@
 ---
 
 ## 💼 Projects  
-### 🔹 **[AUTO AID](https://github.com/KJSarath11/auto-aid)**  
+### 🔹 **[AUTO AID]([https://github.com/KJSarath11/auto-aid](https://github.com/JoelMathewV/AutoAid-workshop-management-miniproject))**  
 - Built a secure, responsive system using Node.js, Express, MongoDB, HTML, and CSS.
 - Key Features: Booking, inventory, and employee management. 
 
