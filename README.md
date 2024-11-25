@@ -8,7 +8,7 @@
 ## 🌟 About Me  
 👨‍💻 A **Python Full-Stack Developer** passionate about solving real-world problems.  
 🎓 **B.Tech in Computer Science** graduate (CGPA: 6.83).  
-💡 Exploring and building projects different technologies.<br>
+💡 Exploring and building projects with different technologies.<br>
 🌱 Currently enhancing my skills in **Python** by solving complex coding patterns.  
 
 
